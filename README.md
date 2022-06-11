@@ -2,5 +2,7 @@
 Complete code from Loom Network's [Crypto Zombies](https://cryptozombies.io/en/course) Solidity tutorial
 - This is my first experience with developing Smart Contracts and Solidity
 - In my opinion, smart contract development is very intriguing due to the immutable, decentralized, and financial nature of using blockchain in a back-end architecture
-- CryptoZombies got me very excited and passionate about learning Solidity, web3 JavaScript libraries, frameworks like OpenZeppelin, and the decentralized infrastructure behind Ethereum 
+- CryptoZombies sparked an excitement and passion in me regarding learning Solidity, web3 JavaScript libraries, frameworks like OpenZeppelin, and the decentralized infrastructure behind Ethereum
+- Again, none of this code is mine. This is the final code when one progresses through all parts of the CryptoZombies tutorial. However, all of the NatSpec formatted comments are mine, to help ensure I am fully comprehending the code and all the interwoven pieces
+
         
